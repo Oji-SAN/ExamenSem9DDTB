@@ -1,0 +1,12 @@
+package com.ExamenSemana9DDTB.Alumno;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Alumno {
+	public class AlumnosApplication {
+	    public static void main(String[] args) {
+	        SpringApplication.run(AlumnosApplication.class, args);
+	    }
+	}
+}

@@ -1,0 +1,5 @@
+package com.ExamenSemana9DDTB.modelo;
+
+public interface Modelo {
+
+}
